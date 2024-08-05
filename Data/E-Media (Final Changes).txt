@@ -1,0 +1,22 @@
+01) Media Query ( For all added new pages)(All views)
+
+02) Change 'contact'(Footer) section for every new added pages
+(copy code of index.html file (Contact section Only) and 
+paste on new added pages in contact section.
+
+03) Add in our portfolio section - Poetry (Set kavyakshan-live the love image for that)
+
+04) Insert given details in matrimonial section ( For Husbands)
+
+05) Insert 'Mahiti Adhikar Arj' image in any govt.scheme section.
+
+06) Footer मध्ये (Contact section) BG Image Header मध्ये जी आहे तीच insert कर. 
+फक्त opacity faint कर
+
+07) Change image for govt.schemes 
+
+ 
+
+
+
+ 
